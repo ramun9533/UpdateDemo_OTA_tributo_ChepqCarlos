@@ -29,4 +29,4 @@ Sistema completo para actualización inalámbrica (Over-The-Air) de firmware en 
 
 | Vista en PC | Vista en Móvil |
 |-------------|----------------|
-| ![Interfaz PC]([https://github.com/ChepeCarlos/ESP32-OTA-Update/raw/main/docs/pc_screenshot.png](https://github.com/ramun9533/UpdateDemo_OTA_tributo_ChepqCarlos/blob/main/Captura%20de%20pantalla_20250811_162444-1.png)) | ![Interfaz Móvil]([https://github.com/ChepeCarlos/ESP32-OTA-Update/raw/main/docs/mobile_screenshot.png](https://github.com/ramun9533/UpdateDemo_OTA_tributo_ChepqCarlos/blob/main/Screenshot_2025-08-11-16-26-11-230_com.android.chrome.jpg)) |
+| ![Interfaz PC](https://github.com/ramun9533/UpdateDemo_OTA_tributo_ChepqCarlos/blob/main/Captura%20de%20pantalla_20250811_162444-1.png) | ![Interfaz Móvil](https://github.com/ramun9533/UpdateDemo_OTA_tributo_ChepqCarlos/blob/main/Screenshot_2025-08-11-16-26-11-230_com.android.chrome.jpg) |
